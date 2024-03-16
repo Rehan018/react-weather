@@ -1,7 +1,7 @@
 
 <br/>
 
-With [The Weather Forecasting](..................) user can search locations by city name and observe the weather for the next 5-6 days and 3 hour interval.
+With [The Weather Forecasting](https://main--eclectic-kleicha-2d9b96.netlify.app/) user can search locations by city name and observe the weather for the next 5-6 days and 3 hour interval.
 <br />
 The app is developed using React.js and material-UI.
 
@@ -9,7 +9,7 @@ The app is developed using React.js and material-UI.
 
 ## 💻 Live Demo:
 
-..................
+[Live](https://main--eclectic-kleicha-2d9b96.netlify.app/)
 
 <br/>
 
